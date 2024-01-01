@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🐾 Purrfect Picks Newsletter - Discover "Cozy Haven" 🛏️</title>
+    <style>
+        body {
+            background-color: #f4f4f4;
+            /* Light background color */
+            color: #333;
+            /* Dark text color */
+            font-family: 'Arial', 'Helvetica', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        header {
+            background-color: #1a1a2e;
+            /* Deep navy blue header background color */
+            color: #ffd700;
+            /* Gold text color for header */
+            text-align: center;
+            padding: 20px 0;
+            margin: 0;
+        }
+
+        header img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        .featured-product {
+            background-color: #fff;
+            /* White background color for product section */
+            border: 5px solid #ddd;
+            /* Light gray border around the product section */
+            padding: 15px;
+            margin-bottom: 20px;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .featured-product img {
+            margin: 0;
+            /* Remove any default margin on the image */
+            padding: 0;
+            /* Remove any default padding on the image */
+            display: block;
+            /* Ensure the image is treated as a block element */
+            width: 100%;
+        }
+
+        .content {
+            padding: 20px;
+        }
+
+        .educational-content {
+            background-color: #4D70A6;
+            /* Deep navy blue footer background color */
+            color: #fff;
+            /* Gold text color for footer */
+            padding: 20px;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+            /* Add space between list items */
+            text-align: left;
+        }
+
+        ul li:last-child {
+            margin-bottom: 0;
+        }
+
+        .promotional-element {
+            background-color: #fff;
+            /* White background color for product section */
+            border: 5px solid #ddd;
+            /* Light gray border around the product section */
+            padding: 15px;
+            margin-bottom: 0px;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .other-offerings-section {
+            background-color: #4D70A6;
+            /* Deep navy blue footer background color */
+            color: #fff;
+            /* Gold text color for footer */
+            padding: 20px;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .cta-button {
+            display: inline-block;
+            /* Set display to inline-block */
+            margin: 0 auto;
+            padding: 10px 20px;
+            background-color: #ff3366;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            text-align: center;
+            width: auto;
+            /* Set width to auto */
+        }
+
+        .social-media {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        a {
+            text-decoration: none;
+            /* Remove underlines from links */
+            margin-right: 10px;
+        }
+
+        .farewell-section {
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .footer {
+            background-color: #1a1a2e;
+            /* Deep navy blue footer background color */
+            color: #F1C974;
+            /* Gold text color for footer */
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <img src="https://www.dropbox.com/scl/fi/25s188p0ln04vygdkfed0/Untitled-design-7.png?rlkey=pnela5po5f1lwrous2ab27rlg&dl=1"
+                alt="Purrfect Picks Logo" width="32%" height="auto">
+        </header>
+
+        <div class="featured-product">
+            <h2>Your cat deserves the "Royal Treatment"</h2>
+            <img src="https://www.dropbox.com/scl/fi/kt06c6ekasbgsxhjng8gr/Untitled-design-1.png?rlkey=9cx8vj7kp8nn7spjd2b5djpm0&dl=1"
+                alt="Cozy Haven Luxury Cat Bed" width="100%" height="auto">
+        </div>
+
+        <div class="content">
+            <h3>Hello <div Customer="" Name="">[Customer's Name],</div>
+            </h3>
+            <p>At Purrfect Picks Boutique, we believe every cat deserves the royal treatment, especially when it comes
+                to naptime! Today, let's explore the science behind a good night's sleep for your feline friend.
+
+            </p>
+        </div>
+
+        <div class="educational-content">
+            <h3>The Art of Cat Napping: Understanding Cat Sleep Cycles</h3>
+            <ul>
+                <li>Cats are crepuscular creatures, meaning they are most active during dawn and dusk. Learn about their
+                    sleep patterns and how our Luxury Cat Beds support their natural instincts.</li>
+                <li>Just like humans, cats have different preferences when it comes to sleeping positions. Discover how
+                    to choose the perfect Luxury Cat Bed that suits your cat's unique style.</li>
+                <li>Explore the benefits of providing a cozy and comfortable sleeping environment for your cat. Our
+                    Luxury Cat Beds are designed with plush materials and ergonomic considerations to ensure the utmost
+                    comfort.</li>
+                <li>Tips and tricks for setting up a dedicated sleep-friendly area for your cat. Discover how the right
+                    bed contributes to a stress-free and peaceful sleep.</li>
+            </ul>
+        </div>
+
+        <div class="promotional-element">
+            <h3>Find all of this and more, with our "Luxury Cat Bed Guide"</h3>
+            <img src="https://www.dropbox.com/scl/fi/qre3fc1is54uwi447uhz0/Luxury-Cat-Beds.png?rlkey=5w3utljnogbehfbcxwfbd4mo4&dl=1"
+                alt="Luxury Cat Bed Guide" width="50%" height="auto">
+            <p>This downloadable guide provides insights into choosing the perfect bed, creating a cozy sleep space, and
+                understanding your cat's sleep preferences. Get your guide now and enjoy a special discount on our
+                Luxury Cat Beds!</p>
+            <p>Click below to explore more:</p>
+            <a href="#" class="cta-button">Explore Now</a>
+        </div>
+        <!-- Other Offerings Section -->
+        <div class="other-offerings-section">
+            <h3>Discover More at Purrfect Picks Boutique</h3>
+            <p>At Purrfect Picks Boutique, we offer a variety of products and services to make your feline friend's life
+                purrfectly delightful. Explore our wide range of offerings:</p>
+
+            <ul>
+                <li>Stylish Cat Furniture: Choose from unique and stylish furniture that complements your home.</li>
+                <li>Interactive Toys: Keep your cat entertained with our selection of engaging toys.</li>
+                <li>Healthy Treats: Treat your furry friend to delicious and nutritious snacks.</li>
+                <li>Fashionable Accessories: Adorn your cat with the latest trends in feline fashion.</li>
+                <!-- Add more items as needed -->
+            </ul>
+
+            <p>Visit our website or stop by our store to explore all the delightful options we have for your beloved
+                pet!</p>
+            <div class="cta-button">
+
+                <a href="#" class="cta-button">Shop Now</a>
+            </div>
+        </div>
+
+        <div class="farewell-section">
+            <p>Best Reguards,</p>
+            <p>The Purrfect Picks Team</p>
+
+
+        </div>
+        <div class="social-media">
+            <h3>🌐 Connect with Us on Social Media</h3>
+
+            <p>Follow us on social media for the latest updates, contests, and more:</p>
+            <!-- Replace the URLs with your actual social media profile URLs -->
+            <!-- Replace the Base64-encoded strings with your actual encoded image strings -->
+            <a href="https://www.facebook.com/YourPage" target="_blank">
+                <img src="https://www.dropbox.com/scl/fi/7qvxap80bf8zvqdk1sium/341099_facebook_icon.png?rlkey=opox7nlq23tmiosno0xpx0k1p&dl=1"
+                    alt="Facebook" style="width: 30px; height: 30px;">
+            </a>
+            <a href="https://twitter.com/YourHandle" target="_blank">
+                <img src="https://www.dropbox.com/scl/fi/uxowxm8xuksytp01jjcfx/939755_tweet_twitter-icon_icon.png?rlkey=d4leuheov747m8j9dr2zzgezh&dl=1"
+                    alt="Twitter" style="width: 30px; height: 30px;">
+            </a>
+            <a href="https://www.instagram.com/YourUsername" target="_blank">
+                <img src="https://www.dropbox.com/scl/fi/diqo581t2sh8esm8s5pdx/2609558_instagram_social-media_social_icon.png?rlkey=hks1z7rsumveu5297y3ntuo94&dl=1"
+                    alt="Instagram" style="width: 30px; height: 30px;">
+            </a>
+        </div>
+        <div class="footer">
+            <img src="https://www.dropbox.com/scl/fi/25s188p0ln04vygdkfed0/Untitled-design-7.png?rlkey=pnela5po5f1lwrous2ab27rlg&dl=1"
+                alt="Purrfect Picks Logo" width="32%" height="auto">
+            <p>📧 Contact us at support@purrfectpicks.com | Visit our website: www.purrfectpicks.com</p>
+        </div>
+    </div>
+</body>
+
+</html>
